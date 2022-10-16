@@ -15,7 +15,7 @@ div.cspsh {
     height: 50vh;
     width: 80vw;
     margin: 1%;
-    line-height: 2.5vh;
+    line-height: 1em;
     text-justify: left;
     text-align: left;
     transition: 0.4s ease-in-out;
